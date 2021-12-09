@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tyrese Barrett
-- 👀 I’m interested in Coding, Cars and 
+- 👀 I’m interested in Coding, Cars and General knowledge
 - 🌱 I’m currently learning Networking, Cyber Security and Web Development 
 - 💞️ I’m looking to collaborate on Website and app building
 - 📫 Reach me by my email Barretttyrese2001@gmail.com
